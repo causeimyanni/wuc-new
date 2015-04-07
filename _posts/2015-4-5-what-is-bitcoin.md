@@ -174,5 +174,5 @@ published: true
     }(document, "script", "aweber-wjs-c40dh7zu5"));
 </script>
     
-	<a href="/privacy">Privacy Policy</a>
-</div> <!-- /container -->  
+	<a href="/en/privacy">Privacy Policy</a>
+</div>
