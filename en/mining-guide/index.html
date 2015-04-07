@@ -14,11 +14,17 @@ layout: default
 <p>If you want to get Bitcoins based on a fixed amount of mining power, but you don't want to run the actual hardware yourself, you can purchase a mining contract.</p>
 <h2>Technical Background</h2>
 <p>During mining, your computer runs a <a href="https://en.bitcoin.it/wiki/Proof_of_work">cryptographic hashing function</a> (two rounds of SHA256) on what is called a <em><a href="https://en.bitcoin.it/wiki/Block_hashing_algorithm">block header</a></em>. For each new hash, the mining software will use a different number as the random element of the block header, this number is called the <em>nonce</em>. Depending on the nonce and what else is in the block the hashing function will yield a hash which looks like this:</p>
-<pre>93ef6f358fbb998c60802496863052290d4c63735b7fe5bdaac821de96a53a9a</pre>
-<p>You can look at this hash as a really long number. (It's a hexadecimal number, meaning the letters A-F are the digits 10-15.) Now to make mining difficult, there is what's called a <em>difficulty target</em>. To create a valid block your miner has to find a hash that is below the difficulty target. So if for example the difficulty target is 1000000000000000000000000000000000000000000000000000000000000000, any number that starts with a zero would be below the target, e.g.:</p>
+<p>
+<center>93ef6f358fbb998c60802496863052290d4c63735b7fe5bdaac821de96a53a9a</center>
+<p>You can look at this hash as a really long number. (It's a hexadecimal number, meaning the letters A-F are the digits 10-15.) Now to make mining difficult, there is what's called a <em>difficulty target</em>. To create a valid block your miner has to find a hash that is below the difficulty target. So if for example the difficulty target is
+<p>
+<center>1000000000000000000000000000000000000000000000000000000000000000</center>
+<p>any number that starts with a zero would be below the target, e.g.:</p>
 <pre>0787a6fd6e0782f7f8058fbef45f5c17fe89086ad4e78a1520d06505acb4522f</pre>
-<p>If we lower the target to 0100000000000000000000000000000000000000000000000000000000000000, we now need two zeros in the beginning to be under it:</p>
-<pre>00db27957bd0ba06a5af9e6c81226d74312a7028cf9a08fa125e49f15cae4979</pre>
+<p>If we lower the target to
+<p><center>0100000000000000000000000000000000000000000000000000000000000000</center>
+we now need two zeros in the beginning to be under it:</p>
+<p><center>00db27957bd0ba06a5af9e6c81226d74312a7028cf9a08fa125e49f15cae4979</center>
 <p>Because the target is such an unwieldy number with tons of digits, people generally use a simpler number to express the current target. This number is called the <em>mining difficulty</em>. The mining difficulty expresses how much harder the current block is to generate compared to the first block. So a difficulty of 70000 means to generate the current block you have to do 70000 times more work than <a href="https://en.bitcoin.it/wiki/Satoshi_Nakamoto">Satoshi Nakamoto</a> had to do generating the first block. Though be fair though, back then mining was a lot slower and less optimized.</p>
 The difficulty changes every 2016 blocks. The network tries to change it such that 2016 blocks at the current global network processing power take about 14 days. That's why, when the network power rises, the difficulty rises as well.
 <h2>Bitcoin Mining Hardware</h2>
