@@ -11,7 +11,7 @@ published: true
 <meta name="keywords" content="bitcoin, what is bitcoin, best bitcoin wallet, best bitcoin exchange, buy bitcoin, virtual currency, digital currency">
 
 <center><div class="youtube-player">
-<iframe width="800" height="338" frameborder="0" allowfullscreen="" src="//www.youtube.com/embed/Gc2en3nHxA4?fs=1&amp;hl=en_US&amp;rel=0&showinfo=0&wmode=opaque&amp;hd=1&amp;origin=http://www.weusecoins.com" type="text/html" style="margin:0 auto;" ></iframe>
+<iframe width="600" height="338" frameborder="0" allowfullscreen="" src="//www.youtube.com/embed/Gc2en3nHxA4?fs=1&amp;hl=en_US&amp;rel=0&showinfo=0&wmode=opaque&amp;hd=1&amp;origin=http://www.weusecoins.com" type="text/html" style="margin:0 auto;" ></iframe>
 </div></center>
 
 <!-- Example row of columns -->
