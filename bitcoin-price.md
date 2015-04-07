@@ -14,26 +14,24 @@ permalink: /bitcoin-price/
 The Bitcoin price has been highly unpredictable but has proven to be one of the best speculations ever with multiple years having returns in excess of 5,000% each.
 <h3>2009-2012 - The Early Days</h3>
 When Satoshi released the software in January 2009 there was no Bitcoin price. On <a href="http://www.runtogold.com/bookofsatoshi">Aug. 27, 2010</a> he proposed:
-<aside class="pquote">
-    <blockquote>
-        <p>As a thought experiment, imagine there was a base metal as scarce as gold but with the following properties:
-<p>
-– boring grey in colour
-<p>
-– not a good conductor of electricity
-<p>
-– not particularly strong, but not ductile or easily malleable either
-<p>
-– not useful for any practical or ornamental purpose
+
+><p>As a thought experiment, imagine there was a base metal as scarce as gold but with the following properties:
+><p>
+>– boring grey in colour
+><p>
+>– not a good conductor of electricity
+> <p>
+> – not particularly strong, but not ductile or easily malleable either
+> <p>
+> – not useful for any practical or ornamental purpose
 and one special, magical property:
-<p>
-– can be transported over a <a href="https://en.wikipedia.org/wiki/Channel_(communications)">communications channel</a>
-<p>
-If it somehow acquired any value at all for whatever reason, then anyone wanting to transfer wealth over a long distance could buy some, transmit it, and have the recipient sell it.
-<p>
-Maybe it could get an initial value circularly as you’ve suggested, by people foreseeing its potential usefulness for exchange. (I would definitely want some) Maybe collectors, any random reason could spark it.</p>
-    </blockquote>
-</aside>
+> <p>
+> – can be transported over a <a href="https://en.wikipedia.org/wiki/Channel_(communications)">communications channel</a>
+> <p>
+> If it somehow acquired any value at all for whatever reason, then anyone wanting to transfer wealth over a long distance could buy some, transmit it, and have the recipient sell it.
+> <p>
+> Maybe it could get an initial value circularly as you’ve suggested, by people foreseeing its potential usefulness for exchange. (I would definitely want some) Maybe collectors, any random reason could spark it.</p>
+
 <p>
 After a couple years bitcoins traded for about $0.30 on January 1, 2011, went to $31.50 about six months later and ended the year at $4.25. 2012 proved to be a less volatile year with the Bitcoin price staying under $15.
 <h3>2013 - The Insane Bitcoin Price</h3>
