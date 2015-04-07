@@ -1,14 +1,14 @@
 ---
 layout: page
 title: Bitcoin Mining Guide
-permalink: /bitcoin-mining-guide/
+permalink: /mining-guide/
 ---
 
 ### What is Bitcoin Mining?
 
 <center>
  <div class="youtube-player">
- <iframe width="800" height="338" frameborder="0" allowfullscreen="" src="https://www.youtube.com/embed/GmOzih6I1zs"></iframe><br>
+ <iframe width="600" height="338" frameborder="0" allowfullscreen="" src="https://www.youtube.com/embed/GmOzih6I1zs"></iframe><br>
  </div>
 </center>
 </p>
@@ -38,5 +38,5 @@ permalink: /bitcoin-mining-guide/
 
 <h3>Software</h3>
 <div class="content-divider"></div>
-<p>There are two basic ways to mine: On your own or as part of a pool. Almost all miners choose to mine on a pool because it takes the luck out of the process. Before you join a pool, make sure you have a <a href="https://www.weusecoins.com/en/getting-started">bitcoin wallet</a> so you have a place to store your bitcoins. Next you need to join a mining pool like Eclipse, Eligius or BTC Guild. With pool mining, the profit from any block a member generates is divided up among the members of the pool. This gives the pool members a more frequent, steady payout (this is called reducing your variance), but your payout(s) will be less unless you use a zero fee pool like Eclipse. Solo mining will give you large, infrequent payouts and pooled mining will give you small, frequent payouts, but both add up to the same amount if you're using a zero fee pool.</p>
+<p>There are two basic ways to mine: On your own or as part of a pool. Almost all miners choose to mine on a pool because it takes the luck out of the process. Before you join a pool, make sure you have a <a href="/getting-started">bitcoin wallet</a> so you have a place to store your bitcoins. Next you need to join a mining pool like Eclipse, Eligius or BTC Guild. With pool mining, the profit from any block a member generates is divided up among the members of the pool. This gives the pool members a more frequent, steady payout (this is called reducing your variance), but your payout(s) will be less unless you use a zero fee pool like Eclipse. Solo mining will give you large, infrequent payouts and pooled mining will give you small, frequent payouts, but both add up to the same amount if you're using a zero fee pool.</p>
 <p>Once you have your client set up or you have registered with a pool, the next step is to set up the actual mining software.</p> 
