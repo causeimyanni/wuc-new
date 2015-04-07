@@ -19,7 +19,7 @@ published: true
     <div class="col-lg-6 feat-box">
     <h2 style="margin-bottom:25px;">For Individuals</h2>
     
-    <a href="//getting-started.html" class="large-orange-button"><span class="large-button-arrow"></span>Get Bitcoin</a>
+    <a href="/getting-started.html" class="large-orange-button"><span class="large-button-arrow"></span>Get Bitcoin</a>
     </div>
     <div class="col-lg-6 feat-box">
     <h2 style="margin-bottom:25px;">For Merchants</h2>
