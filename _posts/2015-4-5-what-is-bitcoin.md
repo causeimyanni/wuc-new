@@ -173,6 +173,6 @@ published: true
     fjs.parentNode.insertBefore(js, fjs);
     }(document, "script", "aweber-wjs-c40dh7zu5"));
 </script>
-    
+</div>    
 	<a href="/en/privacy">Privacy Policy</a>
-</div>
+
