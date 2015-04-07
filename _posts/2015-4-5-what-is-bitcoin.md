@@ -11,7 +11,7 @@ published: true
 <meta name="keywords" content="bitcoin, what is bitcoin, best bitcoin wallet, best bitcoin exchange, buy bitcoin, virtual currency, digital currency">
 
 <center><div class="youtube-player">
-<iframe width="640" height="360" src="https://www.youtube.com/embed/Gc2en3nHxA4" frameborder="0" allowfullscreen></iframe>
+<iframe width="853" height="480" src="https://www.youtube.com/embed/Gc2en3nHxA4" frameborder="0" allowfullscreen></iframe>
 </div></center>
 
 <!-- Example row of columns -->
@@ -33,15 +33,3 @@ published: true
 <img src="/images/bitcoin-testimonials.png" alt="bill gates, leon louw, al gore" />
 
 <img src="/images/bitcoin-as-seen-on.png" alt="bitcoin cnn money, new york times, bloomberg, reuters, washington post, aljazeera, wired, wall street journal" />
-
-<h3>Get Daily Bitcoin News in Your Inbox:</h3>
-<div class="AW-Form-439075631"></div>
-<script type="text/javascript">(function(d, s, id) {
-    var js, fjs = d.getElementsByTagName(s)[0];
-    if (d.getElementById(id)) return;
-    js = d.createElement(s); js.id = id;
-    js.src = "//forms.aweber.com/form/31/439075631.js";
-    fjs.parentNode.insertBefore(js, fjs);
-    }(document, "script", "aweber-wjs-c40dh7zu5"));
-</script>
-</div>
