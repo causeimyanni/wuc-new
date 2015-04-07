@@ -11,7 +11,7 @@ published: true
 <meta name="keywords" content="bitcoin, what is bitcoin, best bitcoin wallet, best bitcoin exchange, buy bitcoin, virtual currency, digital currency">
 
 <center><div class="youtube-player">
-<iframe width="853" height="480" src="https://www.youtube.com/embed/Gc2en3nHxA4" frameborder="0" allowfullscreen></iframe>
+<iframe width="750" height="422" src="https://www.youtube.com/embed/Gc2en3nHxA4" frameborder="0" allowfullscreen></iframe>
 </div></center>
 
 <!-- Example row of columns -->
