@@ -24,7 +24,7 @@ published: true
     <div class="col-lg-6 feat-box">
     <h2 style="margin-bottom:25px;">For Merchants</h2>
     
-    <a href="/merchant-tools.html" class="large-orange-button"><span class="large-button-arrow"></span>Accept Bitcoin</a>
+    <a href="/merchant-tools" class="large-orange-button"><span class="large-button-arrow"></span>Accept Bitcoin</a>
     </div>
 </div>
 
@@ -174,5 +174,5 @@ published: true
     }(document, "script", "aweber-wjs-c40dh7zu5"));
 </script>
     
-	<a href="privacy.html">Privacy Policy</a>
+	<a href="/privacy">Privacy Policy</a>
 </div> <!-- /container -->  
