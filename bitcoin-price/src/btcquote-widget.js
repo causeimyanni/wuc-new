@@ -175,7 +175,7 @@ var BTCQuote = function () {
 			'.odometer.odometer-auto-theme.odometer-animating-down .odometer-ribbon-inner, .odometer.odometer-theme-minimal.odometer-animating-down .odometer-ribbon-inner { -webkit-transform: translateY(-100%); -moz-transform: translateY(-100%); -ms-transform: translateY(-100%); -o-transform: translateY(-100%); transform: translateY(-100%); }',
 			'.odometer.odometer-auto-theme.odometer-animating-down.odometer-animating .odometer-ribbon-inner, .odometer.odometer-theme-minimal.odometer-animating-down.odometer-animating .odometer-ribbon-inner { -webkit-transition: -webkit-transform 2s; -moz-transition: -moz-transform 2s; -ms-transition: -ms-transform 2s; -o-transition: -o-transform 2s; -o-transition: -o-transform 2s; transition: transform 2s; -webkit-transform: translateY(0); -moz-transform: translateY(0); -ms-transform: translateY(0); -o-transform: translateY(0); transform: translateY(0); }',
 		'</style>',
-		'<div class="btc-box" style="height: 71px; width: 212px; font-size: 12px; font-family: Arial; position: relative; overflow:hidden; background-color: #DFE0E2; background-image: url(' + BACKGROUND_GRADIENT + '); background-repeat: repeat-x; border-radius: 4px; border: 2px solid #D6D4D7;">',
+		'<div class="btc-box" style="height: 71px; width: 212px; font-size: 12px; font-family: Arial; position: relative; overflow:hidden; border-radius: 4px; border: 2px solid #D6D4D7;">',
 			'<div class="btc-is-loading" id="btc-slider">',
 				'<div class="btc-box" style="height: 71px; width: 212px; font-size: 12px; line-height: 1;">',
 					'<div style="position: absolute; background-image: url(' + BITCOIN_LOGO + '); width: 56px; height: 56px; top: 9px; left: 10px;"></div>',
