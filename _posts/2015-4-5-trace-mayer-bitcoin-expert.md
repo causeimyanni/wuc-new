@@ -6,7 +6,7 @@ authorurl: http://www.tracemayer.net
 published: true
 ---
 
-<a title="Trace Mayer" href="http://www.apbspeakers.com/speaker/trace-mayer"  target="_blank">Trace Mayer</a> is an entrepreneur, investor, journalist, monetary scientist and ardent defender of the freedom of speech. He holds degrees in Accounting and law. He has studied Austrian economics focusing on Murray Rothbard and Ludwig von Mises.
+Trace Mayer is an entrepreneur, investor, journalist, monetary scientist and ardent defender of the freedom of speech. He holds degrees in Accounting and law. He has studied Austrian economics focusing on Murray Rothbard and Ludwig von Mises.
 
 ### Crypto-currency related investments include:
 
