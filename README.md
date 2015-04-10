@@ -4,12 +4,12 @@ WeUseCoins is one of the highest profile websites in Bitcoin. Please contribute 
 
 To increase the probability of success please follow these guidelines:
 
-<b>Author Biography Article</b>
+<b>Author Biography Article</b><p>
 1. Create an author biography article.<p>
 2. An appropriate example would be: https://github.com/sunnankar/wuc-new/blob/gh-pages/_posts/2015-4-5-trace-mayer-bitcoin-expert.md<p>
 3. For the Author URL in the layout use a website of your choice<p>
 
-<b>Writing Articles For WeUseCoins</b>
+<b>Writing Articles For WeUseCoins</b><p>
 1. Create an article in the _posts folder<p>
 2. Use the Year-Month-Date in the file name. Ex. 2015-1-23-bitcoin.md<p>
 3. Fill out the Author and Author URL (use your WUC Author Biography article.<p>
