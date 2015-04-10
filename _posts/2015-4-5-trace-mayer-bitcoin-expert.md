@@ -8,6 +8,8 @@ published: true
 
 Trace Mayer is an entrepreneur, investor, journalist, monetary scientist and ardent defender of the freedom of speech. He holds degrees in Accounting and law. He has studied Austrian economics focusing on Murray Rothbard and Ludwig von Mises.
 
+Trace Mayer was among the first popular bloggers to publicly recommend Bitcoin in its infancy with a market cap under $2m and well before its massive rise over $11B in November 2013 and hosts the extremely popular <a title="Bitcoin Knowledger" href="http://www.bitcoin.kn"  target="_blank">Bitcoin Knowledge</a> podcast.
+
 ### Crypto-currency related investments include:
 
 <a href="http://www.bitcoinarmory.com" align="left" target="_blank"><img
@@ -55,7 +57,7 @@ Trace Mayer is an entrepreneur, investor, journalist, monetary scientist and ard
 
  <iframe width="640" height="360" src="//www.youtube.com/embed/6W_DNR9Bhus" frameborder="0" allowfullscreen></iframe>
  
- ### Contact
+### Contact
 
 To contact via either <a title="contact us" href="http://www.runtogold.com/about/contact/"  target="_blank">form</a>, BM-2cWdngMEsKaT8PMzyCK4zJJbCj2iDngSMo or:
 <p>
